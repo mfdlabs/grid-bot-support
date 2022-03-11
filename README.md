@@ -15,9 +15,9 @@ It has had a lot of work done on it, and is now a fully functional bot, almost r
 # What can be done here?
 
 You can request the following: 
-1. [Bug Reports](https://github.com/mfdlabs-grid-development/grid-bot-support/issues/issues/new)
-2. [Feature Requests](https://github.com/mfdlabs-grid-development/grid-bot-support/issues/issues/new)
-3. [Security Issues](https://github.com/mfdlabs-grid-development/grid-bot-support/issues/issues/new)
+1. [Bug Reports](https://github.com/mfdlabs-grid-development/grid-bot-support/issues/new)
+2. [Feature Requests](https://github.com/mfdlabs-grid-development/grid-bot-support/issues/new)
+3. [Security Issues](https://github.com/mfdlabs-grid-development/grid-bot-support/issues/new)
 
 These should be carried out with utmost professionalism and care, as otherwise they will be ignored, or will make it harder for the MFDLABS Grid Team to implement them.
 
