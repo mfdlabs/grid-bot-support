@@ -65,6 +65,14 @@ body:
     validations:
       required: false
   - type: input
+    id: machine-id
+    attributes:
+      label: The hostname, Machine ID and IP of the machine
+      description: This refers to the hostname, Machine ID and IP of the machine, there will be a command that lets you retrieve this value (;hostname). This is optional, but is very helpful for debugging.
+      placeholder: ex. dapp181-dec.distrubuted.jfk01-us-east-01.mfdlabs.local, JFK01-DApp181, 10.128.29.28
+    validations:
+      required: false
+  - type: input
     id: log-file-name
     attributes:
       label: The name of the log file.
