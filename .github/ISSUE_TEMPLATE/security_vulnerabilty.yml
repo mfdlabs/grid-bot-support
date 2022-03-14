@@ -1,7 +1,7 @@
 name: Security Vulnerabilty
 description: File a security vulnerability report, use this if you have discovered a security vulnerability and wish the internal team to investigate.
 title: "[Vulnerability]: "
-labels: ["bug", "security-vulnerability", "ops-major", "requires-review"]
+labels: ["bug", "security-vulnerability", "ops-major", "requires-review", "backlog"]
 body:
   - type: markdown
     attributes:
