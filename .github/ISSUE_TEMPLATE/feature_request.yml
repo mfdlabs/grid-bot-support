@@ -1,7 +1,7 @@
 name: Feature Request
 description: Request a new feature. File this if you would like to see a new feature added to the bot.
 title: "[Feature]: "
-labels: ["feature-request", "enhancement", "requires-review"]
+labels: ["feature-request", "enhancement", "requires-review", "backlog"]
 body:
   - type: markdown
     attributes:
