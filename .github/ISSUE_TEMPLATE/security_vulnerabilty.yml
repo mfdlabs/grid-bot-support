@@ -1,11 +1,11 @@
 name: Security Vulnerabilty
 description: File a security vulnerability report, use this if you have discovered a security vulnerability and wish the internal team to investigate.
 title: "[Vulnerability]: "
-labels: ["bug", "security-vulnerability", "ops-major", "requires-review", "backlog"]
+labels: ["Bug Report", "Security Vulnerability", "Mission Critical", "Requires Review", "Backlogged"]
 body:
   - type: markdown
     attributes:
-      value: Thanks for taking the time to fill out this security vulnerability report! This will be marked with the label "ops-major" as vulnerability reports are considered to be very important.
+      value: Thanks for taking the time to fill out this security vulnerability report! This will be marked with the label "Mission Critical", which will email @mfdlabs/sec-ops, @mfdlabs/ops and @mfdlabs/grid-team
   - type: checkboxes
     attributes:
       label: Check if there is an existing issue or pull request.
