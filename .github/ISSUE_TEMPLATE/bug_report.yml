@@ -2,6 +2,7 @@ name: Bug Report
 description: File a bug report, use this if you have discovered a bug in production and wish the internal team to investigate.
 title: "[Bug]: "
 labels: ["Bug Report", "Requires Review", "Backlogged"]
+assignees: ["mfdlabs-ops", "@mfdlabs/ops"]
 body:
   - type: markdown
     attributes:
