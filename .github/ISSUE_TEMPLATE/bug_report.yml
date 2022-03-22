@@ -1,7 +1,7 @@
 name: Bug Report
 description: File a bug report, use this if you have discovered a bug in production and wish the internal team to investigate.
 title: "[Bug]: "
-labels: ["bug", "requires-review", "backlog"]
+labels: ["Bug Report", "Requires Review", "Backlogged"]
 body:
   - type: markdown
     attributes:
