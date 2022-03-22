@@ -2,6 +2,7 @@ name: Feature Request
 description: Request a new feature. File this if you would like to see a new feature added to the bot.
 title: "[Feature]: "
 labels: ["Feature Request", "Enhancement", "Requires Review", "Backlogged"]
+assignees: ["mfdlabs-ops"]
 body:
   - type: markdown
     attributes:
