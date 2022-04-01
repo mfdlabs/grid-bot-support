@@ -1,0 +1,68 @@
+site_name: MFDLABS Grid Bot Documentation
+site_url: https://grid-bot.ops.vmminfra.net
+repo_name: mfdlabs/grid-bot-support
+repo_url: https://github.com/mfdlabs/grid-bot-support
+edit_uri: ""
+remote_branch: deploy/docs-dev/docs-deploy
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  font:
+    text: Inter
+    code: JetBrains Mono
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    scheme: slate
+    primary: black
+    accent: blue
+  features:
+    - content.code.annotate
+
+extra_css:
+  - assets/theme.css
+
+plugins:
+  - search
+  - literate-nav:
+      nav_file: SUMMARY.md
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - meta
+  - pymdownx.betterem
+  - pymdownx.details
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/P76ERbsG6P
+      name: Discord Server
+  analytics:
+    provider: google
+    property: G-QV4S1YRK2D
+  generator: false
+
+copyright: Copyright &copy; 2022 MFDLABS Corporation

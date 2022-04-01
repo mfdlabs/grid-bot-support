@@ -1,0 +1,7 @@
+* [Home](index.md)
+* [Contacts](contacts.md)
+* [Commands](commands.md)
+* [Moderation](moderation.md)
+* [Legal](legal.md)
+    * [Terms of Service](./legal/tos.md)
+    * [Privacy Policy](./legal/privacy-policy.md)
