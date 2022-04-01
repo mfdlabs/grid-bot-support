@@ -26,7 +26,7 @@ body:
       label: Have you read the Security Vulnerability Guidelines?
       description: If you have read the [Security Vulnerability Guidelines](https://github.com/mfdlabs-grid-development/grid-bot-support/blob/master/SECURITY.md), and this issue conforms to them, please check this box.
       options:
-      - label: I verified that this occurs on the latest version.
+      - label: I have read the Security Vulnerability Guidelines.
         required: true
   - type: dropdown
     id: severity
