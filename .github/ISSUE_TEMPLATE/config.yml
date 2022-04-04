@@ -1,15 +1,13 @@
 blank_issues_enabled: false
 contact_links:
   - name: Grid Bot Moderation Guidelines
-    url: 'https://grid-bot.ops.vmminfra.net/moderation'
-    description: Please refer to here before opening Blacklist appeals.
+    url: https://grid-bot.ops.vmminfra.net/moderation
+    about: Please refer to here before opening Blacklist appeals.
   - name: Grid Bot Terms of Service
-    url: 'https://grid-bot.ops.vmminfra.net/legal/tos'
-    description: >-
-      Please refer to here for the terms and conditions for using or integrating
+    url: https://grid-bot.ops.vmminfra.net/legal/tos
+    about: Please refer to here for the terms and conditions for using or integrating
       this bot within Discord.
   - name: Grid Bot Privacy Policy
-    url: 'https://grid-bot.ops.vmminfra.net/legal/privacy-policy'
-    description: >-
-      Please refer to here for the information on how we use your data
+    url: https://grid-bot.ops.vmminfra.net/legal/privacy-policy
+    about: Please refer to here for the information on how we use your data
       internally.
