@@ -15,10 +15,10 @@ It has had a lot of work done on it, and is now a fully functional bot, almost r
 # What can be done here?
 
 You can request the following: 
-1. [Bug Reports](https://github.com/mfdlabs/grid-bot-support/issues/new/choose)
-2. [Feature Requests](https://github.com/mfdlabs/grid-bot-support/issues/new/choose)
-3. [Security Issues](https://github.com/mfdlabs/grid-bot-support/issues/new/choose)
-4. [Blacklist Appeals](https://github.com/mfdlabs/grid-bot-support/issues/new/choose)
+1. [Bug Reports](https://github.com/mfdlabs/grid-bot-support/issues/new?assignees=mfdlabs-ops&labels=Bug+Report%2CRequires+Review%2CBacklogged&template=bug_report.yml&title=%5BBug%5D%3A+)
+2. [Feature Requests](https://github.com/mfdlabs/grid-bot-support/issues/new?assignees=mfdlabs-ops&labels=Feature+Request%2CEnhancement%2CRequires+Review%2CBacklogged&template=feature_request.yml&title=%5BFeature%5D%3A+)
+3. [Security Issues](https://github.com/mfdlabs/grid-bot-support/issues/new?assignees=mfdlabs-ops%2Cmfdlabs-sec-ops&labels=Bug+Report%2CSecurity+Vulnerability%2CMission+Critical%2CRequires+Review%2CBacklogged&template=security_vulnerabilty.yml&title=%5BVulnerability%5D%3A+)
+4. [Blacklist Appeals](https://github.com/mfdlabs/grid-bot-support/issues/new?assignees=mfdlabs-ops%2Cmfdlabs-sec-ops&labels=Appeal%2CRequires+Review%2CBacklogged&template=blacklist_appeal.yml&title=%5BAppeal%5D%3A+)
 
 These should be carried out with utmost professionalism and care, as otherwise they will be ignored, or will make it harder for the MFDLABS Grid Team to implement them.
 
