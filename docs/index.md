@@ -11,8 +11,13 @@ Use this as an extended guide to use the bot.
 # Useful Links
 
 [Contacts](contacts.md)
+
 [Commands](commands.md)
+
 [Moderation](moderation.md)
+
 [Legal](legal.md)
+
 [Terms of Service](./legal/tos.md)
+
 [Privacy Policy](./legal/privacy-policy.md)
