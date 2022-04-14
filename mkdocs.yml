@@ -56,10 +56,6 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
-  social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/P76ERbsG6P
-      name: Discord Server
   analytics:
     provider: google
     property: G-QV4S1YRK2D
