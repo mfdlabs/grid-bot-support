@@ -22,3 +22,5 @@ If you spot something that is not allowed, please report it to [ops+grid-bot-abu
 
 ## Summary
 The commands can be executed in two ways, through text or through a Discord Slash Command. You can find the list of available commands with their brief descriptions by using the `help` command.
+
+To be finished...
