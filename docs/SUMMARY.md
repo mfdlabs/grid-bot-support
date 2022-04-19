@@ -3,6 +3,8 @@
 * [Moderation](moderation.md)
 * [Commands](commands.md)
     * [Formats](./commands/formats.md)
+    * [Text Commands](./commands/text.md)
+    * [Slash Commands](./commands/slash.md)
 * [Legal](legal.md)
     * [Terms of Service](./legal/tos.md)
     * [Privacy Policy](./legal/privacy-policy.md)
