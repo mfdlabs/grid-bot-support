@@ -20,7 +20,7 @@ With text commands you will kind of have to guess the arguments positions, but t
 ## Slash Commands
 You can find the list of available commands with their brief descriptions by looking at their descriptions like this:
 
-![](assets/screenshots/formats-slash-commands-description.png)
+![](/assets/screenshots/formats-slash-commands-description.png)
 
 You can also find their detailed descriptions here: [Slash Commands](./slash/index.md)
 
