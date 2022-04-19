@@ -22,4 +22,6 @@ You can find the list of available commands with their brief descriptions by loo
 
 ![](assets/screenshots/formats-slash-commands-description.png)
 
+You can also find their detailed descriptions here: [Slash Commands](./slash/index.md)
+
 With slash commands you will see arguments when you execute them.
