@@ -29,6 +29,7 @@ A more detailed description on how you can execute the commands can be found in 
 When you run the `help` command, you will see a list of Emojis that represent states of the command.
 
 Those states are:
+
 | Emoji                      | Meaning                                                                                                                                                                                                                                   |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | :no_entry: Internal        | This means this command is internal and can most likely only be used by developers. If you see one of these after executing the `help` command, that may mean you have elevated permissions.                                              |
