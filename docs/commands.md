@@ -23,4 +23,14 @@ If you spot something that is not allowed, please report it to [ops+grid-bot-abu
 ## Summary
 The commands can be executed in two ways, through text or through a Discord Slash Command. You can find the list of available commands with their brief descriptions by using the `help` command.
 
-To be finished...
+A more detailed description on how you can execute the commands can be found in the [formats](./commands/formats.md) section.
+
+## Text Commands Key
+When you run the `help` command, you will see a list of Emojis that represent states of the command.
+
+Those states are:
+| Emoji                      | Meaning                                                                                                                                                                                                                                   |
+|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :no_entry: Internal        | This means this command is internal and can most likely only be used by developers. If you see one of these after executing the `help` command, that may mean you have elevated permissions.                                              |
+| :white_check_mark: Enabled | This means that the specified command is enabled and can be used, if it is paired with `Internal` this means that the command is internal and can be invoked by elevated users.                                                           |
+| :x: Disabled               | This means that the specified command is disabled and cannot be used, if you attempt to use this command it will throw an error with a message telling you why it's disabled. These commands may get disabled for a multitude of reasons. |
