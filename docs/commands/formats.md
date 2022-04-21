@@ -11,7 +11,7 @@ Slash commands do not have a lot of the same commands as text commands, but they
 ## Text Commands
 You can find the list of available commands with their brief descriptions by using the `help` command.
 
-You can also find their detailed descriptions here: [Text Commands](./text.md)
+You can also find their detailed descriptions here: [Text Commands](./text/index.md)
 
 The prefix will most likely stay static, but as of now it is `;`.
 
@@ -22,6 +22,6 @@ You can find the list of available commands with their brief descriptions by loo
 
 ![](/assets/screenshots/formats-slash-commands-description.png)
 
-You can also find their detailed descriptions here: [Slash Commands](./slash.md)
+You can also find their detailed descriptions here: [Slash Commands](./slash/index.md)
 
 With slash commands you will see arguments when you execute them.

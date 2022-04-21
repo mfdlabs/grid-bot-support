@@ -10,13 +10,13 @@ Use this as an extended guide to use the bot.
 
 # Useful Links
 
-[Contacts](contacts.md)
+[Contacts](./contacts.md)
 
-[Commands](commands.md)
+[Commands](./commands/index.md)
 
 [Moderation](moderation.md)
 
-[Legal](legal.md)
+[Legal](./legal/index.md)
 
 [Terms of Service](./legal/tos.md)
 

@@ -23,7 +23,7 @@ If you spot something that is not allowed, please report it to [ops+grid-bot-abu
 ## Summary
 The commands can be executed in two ways, through text or through a Discord Slash Command. You can find the list of available commands with their brief descriptions by using the `help` command.
 
-A more detailed description on how you can execute the commands can be found in the [formats](./commands/formats.md) section.
+A more detailed description on how you can execute the commands can be found in the [formats](./formats.md) section.
 
 ## Text Commands Key
 When you run the `help` command, you will see a list of Emojis that represent states of the command.
