@@ -6,27 +6,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://grid-bot.ops.vmminfra.net/SUMMARY/</loc>
-         <lastmod>2022-04-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://grid-bot.ops.vmminfra.net/commands/</loc>
-         <lastmod>2022-04-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://grid-bot.ops.vmminfra.net/contacts/</loc>
          <lastmod>2022-04-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://grid-bot.ops.vmminfra.net/legal/</loc>
+         <loc>https://grid-bot.ops.vmminfra.net/moderation/</loc>
          <lastmod>2022-04-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://grid-bot.ops.vmminfra.net/moderation/</loc>
+         <loc>https://grid-bot.ops.vmminfra.net/commands/</loc>
          <lastmod>2022-04-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -42,6 +32,11 @@
     </url>
     <url>
          <loc>https://grid-bot.ops.vmminfra.net/commands/text/</loc>
+         <lastmod>2022-04-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://grid-bot.ops.vmminfra.net/legal/</loc>
          <lastmod>2022-04-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
