@@ -38,8 +38,8 @@ jobs:
       
       - name: Configure Git user
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "mfdlabs-auto-deployer[bot]@users.noreply.github.com"
+          git config --local user.name "mfdlabs-auto-deployer[bot]"
       
       - name: Deploy docs
         run: |
