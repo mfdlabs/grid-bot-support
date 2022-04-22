@@ -44,7 +44,8 @@ jobs:
       
       - name: Configure Git user
         run: |
-          git config --global commit.gpgsign true
+          git config --local commit.gpgsign "true"
+          git config --local user.signingkey ${{ secrets.GPG_SIGNING_KEY }}
           git config --local user.email "ops+gh@vmminfra.net"
           git config --local user.name "mfdlabs-ops"
       
