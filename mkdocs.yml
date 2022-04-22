@@ -1,7 +1,7 @@
 site_name: "MFDLABS Grid Bot Documentation"
 site_url: "https://grid-bot.ops.vmminfra.net/"
 repo_name: "mfdlabs/grid-bot-support"
-repo_url: "https://github.com/mfdlabs/grid-bot-support"
+repo_url: "https://github.com/mfdlabs/grid-bot-support/issues"
 edit_uri: ""
 remote_branch: deploy/docs-dev/docs-deploy
 
