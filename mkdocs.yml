@@ -14,7 +14,7 @@ theme:
     text: Inter
     code: JetBrains Mono
   icon:
-    repo: fontawesome/brands/github
+    repo: fontawesome/brands/git
   palette:
     scheme: slate
     primary: black
@@ -57,6 +57,10 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 extra:
+  social:
+    - icon: fontawesome/brands/bots
+      link: https://discord.com/api/oauth2/authorize?client_id=819791451436482600&permissions=2147798080&redirect_uri=https%3A%2F%2Fdiscord.gg%2FP76ERbsG6P&response_type=code&scope=bot%20applications.commands%20messages.read
+      name: Discord Bot Invite Referrer
   analytics:
     provider: google
     property: G-QV4S1YRK2D
