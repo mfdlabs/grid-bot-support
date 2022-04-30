@@ -48,7 +48,7 @@ body:
   - type: input
     id: channel-id
     attributes:
-      label: The ID of the channel you think you were blacklisted in. This dpes not apply if you are appealing guild blacklist.
+      label: The ID of the channel you think you were blacklisted in. This does not apply if you are appealing guild blacklist.
       description: Please refer to the [Discord Helpcenter](https://support.discord.com/hc/en-us/articles/206346498) for more information on how to find the ID of a channel.
       placeholder: ex. 954168914273767484
     validations:
