@@ -4,7 +4,7 @@ description: This document outlines how we use your data to enhance the experien
 ---
 <div class="tab-content translations-content-item en visible" id="en">
   <h1>Privacy Policy</h1>
-  <p>Last updated: April 01, 2022</p>
+  <p>Last updated: July 06, 2022</p>
   <p>
     This Privacy Policy describes Our policies and procedures on the collection,
     use and disclosure of Your information when You use the Service and tells
@@ -43,14 +43,14 @@ description: This document outlines how we use your data to enhance the experien
     <li>
       <p>
         <strong>Application</strong> means the software program provided by the
-        Company downloaded by You on any electronic device, named MFDLABS Grid
+        Company downloaded by You on any electronic device, named MFDLABS Grid Bot
         Bot
       </p>
     </li>
     <li>
       <p>
         <strong>Company</strong> (referred to as either "the Company", "We",
-        "Us" or "Our" in this Agreement) refers to MFDLABS Ltd., La Puente, Los
+        "Us" or "Our" in this Agreement) refers to MFDLABS, RKAEV and VMMInfra Partners, La Puente, Los
         Angeles, CA 91746.
       </p>
     </li>

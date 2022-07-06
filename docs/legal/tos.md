@@ -3,7 +3,7 @@ title: Terms of Use
 description: This document outlines the terms to be followed by the clients that use this "Bot"
 ---
 <h1>Terms and Conditions</h1>
-<p>Last updated: April 01, 2022</p>
+<p>Last updated: July 06, 2022</p>
 <p>
   Please read these terms and conditions carefully before using Our Service.
 </p>
@@ -46,7 +46,7 @@ description: This document outlines the terms to be followed by the clients that
     <p>
       <strong>Company</strong> (referred to as either &quot;the Company&quot;,
       &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement)
-      refers to MFDLABS Ltd., La Puente, Los Angeles, CA 91746..
+      refers to MFDLABS, RKAEV and VMMInfra Partners, La Puente, Los Angeles, CA 91746..
     </p>
   </li>
   <li>
