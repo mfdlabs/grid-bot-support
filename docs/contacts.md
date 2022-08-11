@@ -43,10 +43,11 @@ If you have any questions, please use any of the contact information listed belo
 ## Emergency Contacts
 In the event of a security breach, or something that is urgent and needs to be addressed, immediately contact the above developers or the following emails.
 
-| Name                                                    | Username                                                                                      |
-|---------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| :material-security: Sec-Ops                             | [ops+security@vmminfra.net](mailto:ops+security@vmminfra.net)                                 |
-| :material-alert: Information Security Emergency Contact | [ops+information-security-911@vmminfra.net](mailto:ops+information-security-911@vmminfra.net) |
-| :material-cloud: Cloud-Ops Security                     | [ops+cloud-security@vmminfra.net](mailto:ops+cloud-security@vmminfra.net)                     |
-| :material-network: Networking OWK                       | [team+net-owk@vmminfra.net](mailto:team+net-owk@vmminfra.net)                                 |
-| :material-account-question: Who Owns This Sector?       | [team+wots@vmminfra.net](mailto:team+wots@vmminfra.net)                                       |
+| Name                                                    | Email                                                                                           |
+|---------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| :material-security: Sec-Ops                             | [ops+security@vmminfra.net](mailto:ops+security@vmminfra.net)                                   |
+| :material-alert: Information Security Emergency Contact | [ops+information-security-911@vmminfra.net](mailto:ops+information-security-911@vmminfra.net)   |
+| :material-cloud: Cloud-Ops Security                     | [ops+cloud-security@vmminfra.net](mailto:ops+cloud-security@vmminfra.net)                       |
+| :material-network: Networking OWK                       | [team+net-owk@vmminfra.net](mailto:team+net-owk@vmminfra.net)                                   |
+| :material-account-question: Who Owns This Sector?       | [team+wots@vmminfra.net](mailto:team+wots@vmminfra.net)                                         |
+| :material-delete-forever: Data Deletion Requests        | [ops+grid-bot-deletion-request@vmminfra.net](mailto:ops+grid-bot-deletion-request@vmminfra.net) |
