@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Discord Guild Invite
-    url: https://discord.gg/P76ERbsG6P
+    url: https://discord.gg/Mp2SdPRWX4
     about: Join this Guild if you want to talk directly to the owner of the bot.
   - name: Discord Bot Invite
     url: https://discord.com/api/oauth2/authorize?client_id=819791451436482600&permissions=2147798080&redirect_uri=https%3A%2F%2Fdiscord.gg%2FP76ERbsG6P&response_type=code&scope=bot%20applications.commands%20messages.read
