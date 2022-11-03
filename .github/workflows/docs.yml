@@ -1,11 +1,6 @@
 name: MkDocs Deploy
 
 on:
-  workflow_dispatch:
-    inputs:
-      name:
-        description: "MkDocs Deploy"
-        required: true
   push:
     branches:
       - "dev/docs-dev"
@@ -25,13 +20,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
-          
-      - name: Import GPG Key
-        uses: crazy-max/ghaction-import-gpg@v1
-        env:
-          GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
-          PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
-      
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
@@ -39,15 +28,12 @@ jobs:
       
       - name: Install dependencies
         run: |
-          pip install git+https://github.com/squidfunk/mkdocs-material.git@8.0.0b2
-          pip install mkdocs-material mkdocs-literate-nav mkdocs-minify-plugin
+          pip install mkdocs-material mkdocs-minify-plugin
       
       - name: Configure Git user
         run: |
-          git config --local commit.gpgsign "true"
-          git config --local user.signingkey ${{ secrets.GPG_SIGNING_KEY }}
-          git config --local user.email "ops+gh@vmminfra.net"
-          git config --local user.name "mfdlabs-ops"
+          git config --local user.email "ops+grid-bot-gh@vmminfra.net"
+          git config --local user.name "grid-bot-gh"
       
       - name: Deploy docs
         run: |
