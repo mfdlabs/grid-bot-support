@@ -9,7 +9,7 @@ Not all features you request will be implemented, so don't get sad if it ends up
 
 # What is MFDLABS Grid Bot?
 
-This bot, which you can invite with the url linked to this repository, was created by [Nikita Petko](https://github.com/nkpetko). It was intended to supersede another similar one put together poorly by other users.
+This bot, which you can invite with the url linked to this repository, was created by [Nikita Petko](https://github.com/nikita-petko). It was intended to supersede another similar one put together poorly by other users.
 It has had a lot of work done on it, and is now a fully functional bot, almost reaching a DAU of over 1K.
 
 # What can be done here?
