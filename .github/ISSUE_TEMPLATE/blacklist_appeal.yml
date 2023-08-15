@@ -57,7 +57,7 @@ body:
     id: appeal-reason
     attributes: 
       label: The reason you are appealing.
-      description: Minimum of 500 characters on why you are appealing.
+      description: Minimum of 50 characters on why you are appealing.
       placeholder: I am appealing because I was blacklisted for spamming...
     validations:
       required: true
@@ -65,7 +65,7 @@ body:
     id: apology
     attributes: 
       label: An apology for the moderation team.
-      description: Minimum of 1000 characters apology towards the moderation team and the clients who use the bot.
+      description: Minimum of 100 characters apology towards the moderation team and the clients who use the bot.
       placeholder: I am sorry for the spamming and I am trying to get this removed.
     validations:
       required: true
